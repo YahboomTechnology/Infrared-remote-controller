@@ -1,0 +1,10 @@
+MSPM0G3507	1838 infrared receiving module
+    PA26		      OUT
+    3V3                            VCC
+    GND                           GND
+
+MSPM0G3507	USB to TTL Module
+        PA10		         RXD
+        PA11		         TXD
+        3V3		         VCC
+        GND		         GND
